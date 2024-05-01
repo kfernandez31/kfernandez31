@@ -33,7 +33,7 @@ I'm a low-level code enthusiast with a strong algorithmic background, currently 
 </div>
 
 
-❤️‍🔥 Passions
+## ❤️‍🔥 Passions
 - Competitive Programming
 <div align="center">
   <img width="" src="https://leetcard.jacoblin.cool/kfer31?theme=nord" alt="Top languages used in my repos" />
