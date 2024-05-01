@@ -1,16 +1,52 @@
-### Hi there 👋
+## 👋🏻 Hi, I'm Kacper
 
-<!--
-**kfernandez31/kfernandez31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- TODO:
 -->
+<p align="center">
+  <a href="https://linktr.ee/kfernandez31">
+    <img width="100" src="https://bbs.io-tech.fi/data/avatars/m/19/19299.jpg?1513887296" alt="logo" />
+  </a>
+</p>
+
+<p align="center" style="margin: -20px 0 30px">
+  <a href="mailto:kacper.kf@proton.me" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="e-mail" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://signal.me/#eu/tUadnUHK6lzrnfRy0WDbU-UDFrip2FieniStOHjTDA-hiLJ9nrZIFIBnENZDTXfC" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/signal.svg" alt="signal" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kfernandez31" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+</p>
+
+I'm a low-level code enthusiast with a strong algorithmic background, currently pursuing a master in High-Performance Computing (HPC). 
+
+<div align="center">
+  <img width="" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kfernandez31&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=makefile,cmake,css,php,hack,dockerfile,ocaml,java&langs_count=10&theme=nord" alt="Top languages used in my repos" />
+  <br />
+  <small>Languages used in my public repos ― big fan of C, C++ and Rust!</small>
+  <br />
+  <br />
+</div>
+
+
+❤️‍🔥 Passions
+- Competitive Programming
+<div align="center">
+  <img width="" src="https://leetcard.jacoblin.cool/kfer31?theme=nord" alt="Top languages used in my repos" />
+  <br />
+  <small>My LeetCode stats</small>
+  <br />
+  <br />
+</div>
+
+- Productivity Software
+- Self-improvement
+- Dachshunds
+- Calisthenics
+- Biohacking
+- Minimalism
+
