@@ -22,7 +22,7 @@
   </a>
 </p>
 
-I'm a low-level code enthusiast with a strong algorithmic background, currently pursuing a master in High-Performance Computing (HPC). 
+I'm a low-level code enthusiast with a strong algorithmic background, currently pursuing a master in High-Performance Computing (HPC) with a goal to combine it with ML/AI. 
 
 <div align="center">
   <img width="" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kfernandez31&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=makefile,cmake,css,php,hack,dockerfile,ocaml,java&langs_count=10&theme=nord" alt="Top languages used in my repos" />
