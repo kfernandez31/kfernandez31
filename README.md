@@ -34,7 +34,7 @@ I'm a low-level code enthusiast with a strong algorithmic background, currently 
 
 
 ## ❤️‍🔥 Passions
-- Competitive Programming
+- 🏆 Competitive Programming
 <div align="center">
   <img width="" src="https://leetcard.jacoblin.cool/kfer31?theme=nord" alt="Top languages used in my repos" />
   <br />
@@ -43,10 +43,10 @@ I'm a low-level code enthusiast with a strong algorithmic background, currently 
   <br />
 </div>
 
-- Productivity Software
-- Self-improvement
-- Dachshunds
-- Calisthenics
-- Biohacking
-- Minimalism
+- ⚡ Productivity Software
+- 🧗🏻 Self-improvement
+- 🐕 Dachshunds
+- 🤸🏻‍♂️ Calisthenics
+- 🧬 Biohacking
+- 🪷 Minimalism
 
