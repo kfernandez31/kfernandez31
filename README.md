@@ -28,10 +28,7 @@ I'm a low-level code enthusiast with a strong algorithmic background, currently 
   <img width="" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kfernandez31&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=makefile,cmake,css,php,hack,dockerfile,ocaml,java&langs_count=10&theme=nord" alt="Top languages used in my repos" />
   <br />
   <small>Languages used in my public repos ― big fan of C, C++ and Rust!</small>
-  <br />
-  <br />
 </div>
-
 
 ## ❤️‍🔥 Passions
 - 🏆 Competitive Programming
