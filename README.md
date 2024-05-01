@@ -1,12 +1,12 @@
 ## 👋🏻 Hi, I'm Kacper
 
 <!-- TODO:
--->
 <p align="center">
   <a href="https://linktr.ee/kfernandez31">
     <img width="100" src="https://bbs.io-tech.fi/data/avatars/m/19/19299.jpg?1513887296" alt="logo" />
   </a>
 </p>
+-->
 
 <p align="center" style="margin: -20px 0 30px">
   <a href="mailto:kacper.kf@proton.me" target="_blank" style='margin-right:10px'>
