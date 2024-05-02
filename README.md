@@ -24,24 +24,21 @@
 
 I'm a low-level code enthusiast with a strong algorithmic background, currently pursuing a master in High-Performance Computing (HPC) with a goal to combine it with ML/AI. 
 
-<a href="https://turbo.fish/" target="_blank">
-  <div align="center">
-    <img width="" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kfernandez31&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=makefile,cmake,css,php,hack,dockerfile,ocaml,java&langs_count=10&theme=nord" alt="Top languages used in my repos" />
-    <br />
-    <small>Languages used in my public repos ― big fan of C, C++ and Rust!</small>
-  </div>
-</a>
+
+<div align="center">
+  <img width="" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kfernandez31&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=makefile,cmake,css,php,hack,dockerfile,ocaml,java&langs_count=10&theme=nord" alt="Top languages used in my repos" />
+  <br />
+  <small>Languages used in my public repos ― big fan of C, C++ and <a href="https://turbo.fish/" target="_blank">Rust!</a></small>
+</div>
+
 
 ## ❤️‍🔥 Passions
 - 🏆 Competitive Programming
-<a href="https://leetcode.com/u/kfernandez31/" target="_blank">
-  <div align="center" target="_blank">
-    <img width="" src="https://leetcard.jacoblin.cool/kfernandez31?theme=nord" alt="Top languages used in my repos" />
-    <br />
-    <small>My LeetCode stats</small>
-  </div>
-</a>
-
+<div align="center" target="_blank">
+  <img width="" src="https://leetcard.jacoblin.cool/kfernandez31?theme=nord" alt="Top languages used in my repos" />
+  <br />
+  <small>My <a href="https://leetcode.com/u/kfernandez31/" target="_blank">LeetCode</a> stats</small>
+</div>
 - ⚡ Productivity Software
 - 🧗🏻 Self-improvement
 - 🐕 Dachshunds
