@@ -32,13 +32,15 @@ I'm a low-level code enthusiast with a strong algorithmic background, currently 
 
 ## ❤️‍🔥 Passions
 - 🏆 Competitive Programming
-<div align="center">
-  <img width="" src="https://leetcard.jacoblin.cool/kfer31?theme=nord" alt="Top languages used in my repos" />
-  <br />
-  <small>My LeetCode stats</small>
-  <br />
-  <br />
-</div>
+<a href="https://leetcode.com/u/kfernandez31/" target="_blank">
+  <div align="center" target="_blank">
+    <img width="" src="https://leetcard.jacoblin.cool/kfernandez31?theme=nord" alt="Top languages used in my repos" />
+    <br />
+    <small>My LeetCode stats</small>
+    <br />
+    <br />
+  </div>
+</a>
 
 - ⚡ Productivity Software
 - 🧗🏻 Self-improvement
