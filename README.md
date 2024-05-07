@@ -47,3 +47,4 @@ I'm a low-level code enthusiast with a strong algorithmic background, currently 
 - 🧬 Biohacking
 - 🪷 Minimalism
 
+<sub><sup>Readme inspired by [AralRoca's](https://github.com/aralroca/aralroca).</sup></sub>
