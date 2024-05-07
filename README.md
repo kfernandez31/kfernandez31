@@ -39,6 +39,7 @@ I'm a low-level code enthusiast with a strong algorithmic background, currently 
   <br />
   <small>My <a href="https://leetcode.com/u/kfernandez31/" target="_blank">LeetCode</a> stats</small>
 </div>
+
 - ⚡ Productivity Software
 - 🧗🏻 Self-improvement
 - 🐕 Dachshunds
