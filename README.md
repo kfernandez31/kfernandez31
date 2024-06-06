@@ -35,7 +35,7 @@
 </div>
 
 
-## ❤️‍🔥 Passions
+## ❤️‍🔥 Interests
 - 🏆 Competitive Programming
 <div align="center" target="_blank">
   <img width="" src="https://leetcard.jacoblin.cool/kfernandez31?theme=nord" alt="Top languages used in my repos" />
@@ -48,6 +48,7 @@
 - 🐕 Dachshunds
 - 🤸🏻‍♂️ Calisthenics
 - 🧬 Biohacking
+- 🌲 Nature
 - 🪷 Minimalism
 
 <sub><sup>Readme inspired by [AralRoca's](https://github.com/aralroca).</sup></sub>
