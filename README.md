@@ -22,8 +22,11 @@
   </a>
 </p>
 
-I'm a low-level code enthusiast with a strong algorithmic background, currently pursuing a master in High-Performance Computing (HPC) with a goal to combine it with ML/AI. 
+💻 I'm a low-level code enthusiast with a strong algorithmic background who's passionate about Distributed Systems, Computer Architecture and UNIX. 
 
+🏫 I'm currently pursuing a double master's degree in High-Performance Computing (HPC) within the EUMaster4HPC program at the University of Luxembourg (UniLu) and the University of Lugano (USI).
+
+💼 I'm also a Software Engineer summer intern for Amazon Madrid.
 
 <div align="center">
   <img width="" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kfernandez31&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=makefile,cmake,css,php,hack,dockerfile,ocaml,java&langs_count=10&theme=nord" alt="Top languages used in my repos" />
