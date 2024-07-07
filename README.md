@@ -22,7 +22,7 @@
   </a>
 </p>
 
-💻 I'm a Low-level code enthusiast with a strong algorithmic background who's passionate about Distributed Systems, Parallel Programming, and Computer Architecture.
+💻 I'm a low-level code enthusiast with a strong algorithmic background who's passionate about Distributed Systems, Parallel Programming, and Computer Architecture.
 
 🏫 I'm currently pursuing a double master's degree in High-Performance Computing (HPC) within the EUMaster4HPC program at the University of Luxembourg (UniLu) and the University of Lugano (USI).
 
