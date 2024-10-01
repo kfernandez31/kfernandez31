@@ -22,7 +22,7 @@
   </a>
 </p>
 
-👋🏻 Low-level code enthusiast with a strong algorithmic background who's passionate about Distributed Systems, Parallel Programming, and Computer Architecture.
+👨🏻‍💻 Low-level code enthusiast with a strong algorithmic background who's passionate about Distributed Systems, Parallel Programming, and Computer Architecture.
 
 🏫 Computer Science B.Sc graduate @ University of Warsaw. Currently pursuing a double Master's degree in High-Performance Computing (HPC) within the EUMaster4HPC program @ University of Luxembourg (UniLu) & University of Lugano (USI).
 
