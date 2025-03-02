@@ -22,11 +22,11 @@
   </a>
 </p>
 
-👨🏻‍💻 Low-level code enthusiast with a strong algorithmic background who's passionate about Distributed Systems, Parallel Programming, and Computer Architecture.
+👨🏻‍💻 Low-level programmer with a strong algorithmic background who's passionate about Performance Engineering, Distributed Systems, Parallel Programming, High-Performance Graphics and Machine Learning pipeline optimizations.
 
-🏫 Computer Science B.Sc graduate @ University of Warsaw. Currently pursuing a double Master's degree in High-Performance Computing (HPC) within the EUMaster4HPC program @ University of Luxembourg (UniLu) & University of Lugano (USI).
+🏫 Computer Science B.Sc graduate @ University of Warsaw (UW). Currently pursuing a double Master's degree in High-Performance Computing (HPC) @ University of Luxembourg (UniLu) and Computational Science @ University of Lugano (USI).
 
-💡 Eager to discuss new opportunities where I could apply my strengths. Particularly interested in optimization of ML pipelines.
+💡 Eager to discuss new opportunities where I could apply my strengths.
 
 <div align="center">
   <img width="" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kfernandez31&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=makefile,cmake,css,php,hack,dockerfile,ocaml,java&langs_count=10&theme=nord" alt="Top languages used in my repos" />
